@@ -1,0 +1,17 @@
+body{
+    background-color: #1e1e2f;
+    color: white;
+}
+
+h1,h2,h3{
+    text-align: center;
+    justify-content: center;
+}
+
+nav > ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
